@@ -3,6 +3,7 @@
     "version": "3.19.3",
     "description": "Type definition file for autocompletion and documentation purposes",
     "license": "MIT",
+    "main" : "overwolf.d.ts",
     "types": "overwolf.d.ts",
     "keywords": [
         "types",
